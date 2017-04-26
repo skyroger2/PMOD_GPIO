@@ -1,0 +1,7 @@
+PMOD_GPIO.cache
+PMOD_GPIO.hw
+PMOD_GPIO.ip_user_files
+PMOD_GPIO.runs
+PMOD_GPIO.sim
+PMOD_GPIO.xpr
+*.log
